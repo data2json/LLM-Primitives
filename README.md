@@ -45,6 +45,9 @@ To run the calculator:
 
 3. The script will output the question, available options, the model's selected option, and the probability distribution for each option.
 
+![image](https://github.com/data2json/LLM-Primitives/assets/122826269/b825e294-1aeb-49a5-8d81-44728350b3d0)
+
+
 ## API Integration
 
 The project currently integrates with a local LLM API. To use a different API:
